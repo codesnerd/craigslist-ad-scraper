@@ -28,3 +28,10 @@ This ad scraper is built in [Python](https://python.org) using:
 ♦ You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
 
 ![3- Contaminated String](https://user-images.githubusercontent.com/70039999/118021879-277d4a00-b375-11eb-8fd8-dcefeb2afca0.gif)
+
+### If you found the project useful, do support it by giving a star! ⭐
+
+## ✏ Author
+Follow my GitHub Profile to stay updated with my latest projects:
+
+[![GitHub Follow](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
