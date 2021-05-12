@@ -1,12 +1,11 @@
 # Craigslist Ad Scraper
 
 ## 🧾 About the Project
-A Craigslist ad scraper built using BeautifulSoup and numpy.
-It scrapes ads from Craigslist, stores each ad in a separate file, and lets the user search from those files.
+A Craigslist ad scraper that scrapes ads from Craigslist, stores each ad in a separate file, and lets the user search from those files.
 
 ### Built With
 
-This ad scraper is built in [Python](https://python.org) using:
+This ad scraper is built in [Python](https://www.python.org/doc/) using:
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Numpy](https://numpy.org/doc/stable/)
 
@@ -31,7 +30,10 @@ This ad scraper is built in [Python](https://python.org) using:
 
 ### If you found the project useful, do support it by giving a star! ⭐
 
-## ✏ Author
+## 🖋 Author
 Follow my GitHub Profile to stay updated with my latest projects:
 
 [![GitHub Follow](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
+
+## 🔑 License
+- This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
