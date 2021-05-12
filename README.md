@@ -11,7 +11,7 @@ This ad scraper is built in [Python](https://python.org) using:
 * [Numpy](https://numpy.org/doc/stable/)
 
 ### Prerequisites
-* You should have Python 3 or Jupyter Notebooks installed and properly configured on your system.
+* [Python 3](https://www.python.org/downloads/) or [Jupyter Notebook](https://jupyter.org/install) should be installed and properly configured on your system.
 * Both `.py` and `.ipynb` files contain the same source code.
 
 ## 🎞 Demo
@@ -23,3 +23,8 @@ This ad scraper is built in [Python](https://python.org) using:
 ♦ You can now search from the stored files.
 
 ![2- Search](https://user-images.githubusercontent.com/70039999/118020530-9b1e5780-b373-11eb-8be5-b7d50db128bf.gif)
+
+\
+♦ You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
+
+![3- Contaminated String](https://user-images.githubusercontent.com/70039999/118021879-277d4a00-b375-11eb-8fd8-dcefeb2afca0.gif)
