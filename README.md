@@ -14,7 +14,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 * Both `.py` and `.ipynb` files contain the same source code.
 
 ## 🎞 Demo
-♦ Set the number of ads you want to scrape and run the script. It will scrape ads and store them in separate files.
+♦ Set the number of ads you want to scrape and run the script. The ads will be scraped and stored in separate files.
 
 ![1- Create Files](https://user-images.githubusercontent.com/70039999/117896228-8db48f00-b2d9-11eb-924e-b58fddbe9e06.gif)
 
