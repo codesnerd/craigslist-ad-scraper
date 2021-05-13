@@ -31,7 +31,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 ### If you found the repo useful, do support it by giving a star! ⭐
 
 ## 🖋 Author
-Follow my GitHub Profile to stay updated with my latest projects:
+Follow my GitHub profile to stay updated with my latest projects:
 
 [![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
 
