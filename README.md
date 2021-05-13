@@ -33,7 +33,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 ## 🖋 Author
 Follow my GitHub Profile to stay updated with my latest projects:
 
-[![GitHub Follow](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
+[![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
 
 ## 🔑 License
 - This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
