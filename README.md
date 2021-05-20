@@ -1,7 +1,7 @@
 # Craigslist Ad Scraper
 
 ## 🧾 About the Project
-A Craigslist ad scraper that scrapes ads from Craigslist, stores each ad in a separate file, and lets the user search from those files.
+A web scraper that scrapes ads from Craigslist, stores each ad in a separate file, and lets the user search from those files.
 
 ### Built With
 
