@@ -28,7 +28,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 
 ![3- Contaminated String](https://user-images.githubusercontent.com/70039999/118021879-277d4a00-b375-11eb-8fd8-dcefeb2afca0.gif)
 
-### If you found the repo useful, do support it by giving a star! ⭐
+### If you found the repo useful, do support it by giving a star. ⭐
 
 ## 🖋 Author
 Follow my GitHub profile to stay updated with my latest projects:
