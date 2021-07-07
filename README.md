@@ -28,6 +28,9 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 
 ![3- Contaminated String](https://user-images.githubusercontent.com/70039999/118021879-277d4a00-b375-11eb-8fd8-dcefeb2afca0.gif)
 
+## 🔑 License
+- This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
+
 ### If you found the repo useful, do support it by giving a star. ⭐
 
 ## 🖋 Author
@@ -35,5 +38,4 @@ Follow my GitHub profile to stay updated with my latest projects:
 
 [![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
 
-## 🔑 License
-- This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
+
