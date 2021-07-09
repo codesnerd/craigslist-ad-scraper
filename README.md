@@ -16,7 +16,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 ## 🎞 Demo
 ♦ Set the number of ads you want to scrape and run the script. The ads will be scraped and stored in separate files.
 
-![1- Create Files](https://user-images.githubusercontent.com/70039999/125020478-57ee1580-e092-11eb-8aaa-1bcc7121bf1c.gif)
+![1- Create Files](https://user-images.githubusercontent.com/70039999/125025760-b15b4200-e09c-11eb-8fc6-ec0061ea0c60.gif)
 
 \
 ♦ You can now search from the stored files.
