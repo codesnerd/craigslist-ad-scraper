@@ -21,7 +21,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 \
 ♦ You can now search from the stored files.
 
-![2- Search](https://user-images.githubusercontent.com/70039999/118020530-9b1e5780-b373-11eb-8be5-b7d50db128bf.gif)
+![2- Search](https://user-images.githubusercontent.com/70039999/125026544-41e65200-e09e-11eb-8ec4-5f211019d1ce.gif)
 
 \
 ♦ You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
