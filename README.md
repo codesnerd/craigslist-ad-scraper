@@ -16,17 +16,17 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 ## 🎞 Demo
 ♦ Set the number of ads you want to scrape and run the script. The ads will be scraped and stored in separate files.
 
-![1- Create Files](https://user-images.githubusercontent.com/70039999/125025760-b15b4200-e09c-11eb-8fc6-ec0061ea0c60.gif)
+![1- Create Files](https://user-images.githubusercontent.com/70039999/125028740-f9309800-e0a1-11eb-8b9b-beb2a04d837c.gif)
 
 \
 ♦ You can now search from the stored files.
 
-![2- Search](https://user-images.githubusercontent.com/70039999/125026544-41e65200-e09e-11eb-8ec4-5f211019d1ce.gif)
+![2- Search](https://user-images.githubusercontent.com/70039999/125028766-05b4f080-e0a2-11eb-8396-2d9bf091d038.gif)
 
 \
 ♦ You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
 
-![3- Contaminated String](https://user-images.githubusercontent.com/70039999/125027951-968acc80-e0a0-11eb-9824-d39d2c4c9113.gif)
+![3- Contaminated String](https://user-images.githubusercontent.com/70039999/125028862-28470980-e0a2-11eb-8bcf-49071a15d4bd.gif)
 
 ## 🔑 License
 - This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
