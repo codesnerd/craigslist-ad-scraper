@@ -31,7 +31,7 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 ## 🔑 License
 This project is distributed under MIT License. View the [LICENSE](LICENSE) file for more information.
 
-### If you found the repo useful, do support it by giving a star. ⭐
+### If you find the repo useful, do support it by giving a star. ⭐
 
 ## 🖋 Author
 Follow my GitHub profile to stay updated with my latest projects:
