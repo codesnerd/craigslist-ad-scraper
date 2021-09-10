@@ -37,5 +37,3 @@ This project is distributed under MIT License. View the [LICENSE](LICENSE) file 
 Follow my GitHub profile to stay updated with my latest projects:
 
 [![Follow codesnerd on GitHub](https://img.shields.io/badge/Connect-codesnerd-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/codesnerd)
-
-
