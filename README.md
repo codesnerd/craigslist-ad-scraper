@@ -14,17 +14,17 @@ This ad scraper is built in [Python](https://www.python.org/doc/) using:
 * Both `.py` and `.ipynb` files contain the same source code.
 
 ## 🎞 Demo
-🔷 Set the number of ads you want to scrape and run the script. The ads will be scraped and stored in separate files.
+♦ Set the number of ads you want to scrape and run the script. The ads will be scraped and stored in separate files.
 
 ![1- Create Files](https://user-images.githubusercontent.com/70039999/125028740-f9309800-e0a1-11eb-8b9b-beb2a04d837c.gif)
 
 \
-🔷 You can now search from the stored files.
+♦ You can now search from the stored files.
 
 ![2- Search](https://user-images.githubusercontent.com/70039999/125028766-05b4f080-e0a2-11eb-8396-2d9bf091d038.gif)
 
 \
-🔷 You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
+♦ You can also enter queries contaminated with punctuations and the program will de-contaminate the query and fetch the right result.
 
 ![3- Contaminated String](https://user-images.githubusercontent.com/70039999/125028862-28470980-e0a2-11eb-8bcf-49071a15d4bd.gif)
 
